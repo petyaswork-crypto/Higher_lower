@@ -1,5 +1,6 @@
 ===========================================================================
 NUMBER GUESSING GAME - FLASK WEB APPLICATION
+===========================================================================
 
 Hello there and welcome!
 What we have here is a simple and fun number guessing game built with Python Flask. The game generates
@@ -7,6 +8,7 @@ a random number between 0 and 9, and the player guesses it through the URL.
 
 ===========================================================================
 GAME DESCRIPTION
+===========================================================================
 
 This is a web-based number guessing game where:
 
@@ -16,8 +18,11 @@ This is a web-based number guessing game where:
 
  - The game provides visual feedback
 
+This project was created as part of the "100 Days of Code: The Complete Python Pro Bootcamp" (Day 55).
+
 ===========================================================================
 HOW TO RUN THE PROGRAM
+===========================================================================
 
 PREREQUISITES:
 
@@ -45,6 +50,7 @@ Go to: http://127.0.0.1:5000
 
 ===========================================================================
 HOW TO PLAY
+===========================================================================
 
 
 STEP 1: Start the Game
@@ -74,6 +80,7 @@ persists until the server is restarted.
 
 ===========================================================================
 TROUBLESHOOTING
+===========================================================================
 
 ISSUE: Flask not found
 SOLUTION: Install Flask - pip install flask
@@ -89,6 +96,7 @@ SOLUTION: Ensure you're entering numbers only in the URL
 
 ===========================================================================
 FILE STRUCTURE
+===========================================================================
 
 
 your-project/
@@ -97,6 +105,7 @@ your-project/
 
 ===========================================================================
 CONTRIBUTING
+===========================================================================
 
 
 Feel free to modify and enhance the game!
