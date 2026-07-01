@@ -18,8 +18,6 @@ This is a web-based number guessing game where:
 
  - The game provides visual feedback
 
-This project was created as part of the "100 Days of Code: The Complete Python Pro Bootcamp" (Day 55).
-
 ===========================================================================
 HOW TO RUN THE PROGRAM
 ===========================================================================
@@ -104,11 +102,18 @@ your-project/
 └── README.txt # This file
 
 ===========================================================================
+CREDITS
+===========================================================================
+
+- Project: "100 Days of Code: The Complete Python Pro Bootcamp" - Day 55
+
+===========================================================================
 CONTRIBUTING
 ===========================================================================
 
 
 Feel free to modify and enhance the game!
 
-
-HAVE FUN GUESSING!
+===========================================================================
+HAVE FUN GUESSING! 🎯
+===========================================================================
