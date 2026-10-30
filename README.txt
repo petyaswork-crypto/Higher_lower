@@ -50,7 +50,6 @@ Go to: http://127.0.0.1:5000
 HOW TO PLAY
 ===========================================================================
 
-
 STEP 1: Start the Game
 
 Navigate to http://127.0.0.1:5000
@@ -96,7 +95,6 @@ SOLUTION: Ensure you're entering numbers only in the URL
 FILE STRUCTURE
 ===========================================================================
 
-
 your-project/
 ├── app.py # Main application file
 └── README.txt # This file
@@ -105,12 +103,16 @@ your-project/
 CREDITS
 ===========================================================================
 
-- Project: "100 Days of Code: The Complete Python Pro Bootcamp" - Day 55
+- Inspired by Day 55 of the course
+"100 Days of Code: The Complete Python Pro Bootcamp".
+
+The project idea, structure, and learning path came from the course.
+The code in this repository was written by me as I followed along,
+and I have added my own comments and tweaks along the way.
 
 ===========================================================================
 CONTRIBUTING
 ===========================================================================
-
 
 Feel free to modify and enhance the game!
 
