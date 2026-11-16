@@ -17,7 +17,7 @@ NOTE: The random number is generated when the Flask server starts. The same numb
 persists until the server is restarted.
 
 
-## HOW TO RUN THE PROGRAM
+## How to Run the Program
 
 - Install Flask: You can directly write "pip install flask" in the terminal or go to packages and find "flask" there
 
@@ -43,7 +43,7 @@ ISSUE: Number guessing not working
 SOLUTION: Ensure you're entering numbers only in the URL
 
 
-## CREDITS
+## Credits
 
 - Inspired by Day 55 of the course
 "100 Days of Code: The Complete Python Pro Bootcamp".
