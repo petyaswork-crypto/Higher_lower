@@ -1,11 +1,11 @@
-# 🎯 NUMBER GUESSING GAME - FLASK WEB APPLICATION
+# 🎯 Number Guessing Game
 
 Hello there and welcome!
-What we have here is a simple and fun number guessing game built with Python Flask. The game generates
+Let me present to you my simple and fun number-guessing game built with Python Flask. The game generates
 a random number between 0 and 9, and the player guesses it through the URL.
 
 
-## GAME DESCRIPTION
+## Game Description
 
 1. A random number between 0 and 9 is generated when the server starts.
 
